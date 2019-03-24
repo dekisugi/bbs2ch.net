@@ -32,6 +32,7 @@ https://twitter.com/yokeruhari/status/1038403530464194561
 もし直すのであれば、下記を参考にしてください。
 
 https://twitter.com/yokeruhari/status/1038399013869907968
+
 0ch_orz_thread.plに応用するならば…
 
 - `「$isowner」を$Sys->Setしておいて、「if ($isowner)」のブロックを$type==16で実行する`
