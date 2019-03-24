@@ -2,7 +2,9 @@
 
 当リポジトリの配布物のライセンスは、ぜろちゃんねるプラス0.7.4と同一とします。
 但し、当ファイル内、ディレクトリ毎の「LICENSE」ファイル、あるいは配布ファイル内にて他のライセンスが指定されている場合、それらが適用されます。
-下記はぜろちゃんねるプラス0.7.4(zerochplus_0.7.4.tar.gz)の「zerochplus_0.7.4/Readme/Readme.txt」からの引用です。
+ただし、当ファイル内、または名前に「LICENSE」もしくは「README」が含まれるファイルもしくはディレクトリ、または配布ファイル内にて他のライセンスが指定されている場合、それらが適用されます。
+
+下記は[ぜろちゃんねるプラス0.7.4(zerochplus_0.7.4.tar.gz)](https://ja.osdn.net/projects/zerochplus/releases/59833)の「zerochplus_0.7.4/Readme/Readme.txt」からの引用です。
 (さらに言えば、それは本家ぜろちゃんねる(test070124.zip)の「/readme/readme.txt」からの引用です)
 
 > 本スクリプトは自由に改造・再配布してもらってかまいません。
@@ -26,7 +28,8 @@ http://friend.ship.jp/renraku.html
 
 # 著作権表示
 
-Copylight (C) 2018 dekisugi@github.com
+Copylight (C) 2018-2019 dekisugi@github.com
+https://github.com/dekisugi/
 
 原作者等が他に存在するファイルは、前述の「他のライセンスが指定されている場合」と同等の方法にて表記するか、
 GitHubの機能を用いて認識可能な状態にするものとします。
